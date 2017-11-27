@@ -8,7 +8,7 @@ import android.support.v4.app.ActivityCompat;
 import android.telephony.TelephonyManager;
 
 /**
- * Created by masskywcy on 2016-09-06.
+ * Created by xfc on 2016-09-06.
  */
 //获取android手机设备编号
 public class DeviceID {
