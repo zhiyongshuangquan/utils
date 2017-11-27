@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             @Override
             public void onClick(View v) {
                 /**
-                 * 进行跳转到TextActivity界面,其他传参使用我就不一一介绍了
+                 * 进行跳转到TextActivity界面,其他传参使用我就不一一介绍
                  */
                 IntentUtil.startActivity(MainActivity.this, TextActivity.class);
             }
