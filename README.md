@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-		compile 'com.github.User:Repo:Tag'
+		 compile 'com.github.zhiyongshuangquan:utils:1.2'
 	}
 	
  二：案例简单使用在主Mainactivity有进行讲解，比如进行跳转
