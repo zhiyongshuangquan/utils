@@ -21,8 +21,12 @@ Step 2. Add the dependency
 	}
 	
  二：案例简单使用在主Mainactivity有进行讲解，比如进行跳转
+ 
 IntentUtil.startActivity(MainActivity.this, TextActivity.class);
-存储数据   SharedPreferencesUtil.saveData(MainActivity.this, "name", "xfc");
+
+存储数据   
+SharedPreferencesUtil.saveData(MainActivity.this, "name", "xfc");
+
 还有其他简单的工具类使用
 
  三：如果出现资源未找到的情况下进行配置
